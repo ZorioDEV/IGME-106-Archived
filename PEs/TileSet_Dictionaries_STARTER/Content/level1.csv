@@ -1,0 +1,10 @@
+Intended size:,64,64,,,,,
+Level 2D array:,8,8,,,,,
+FLOWER-white,DIRT-2,GRASS-2,GRASS-2,WATER-corner-lower-left,WATER-inner,WATER-inner,WATER-inner
+FLOWER-white,DIRT-2,GRASS-2,GRASS-1,GRASS-1,WATER-edge-left,WATER-inner,WATER-inner
+FLOWER-white,DIRT-2,GRASS-1,GRASS-1,GRASS-1,WATER-corner-lower-left,WATER-edge-bottom,WATER-edge-bottom
+DIRT-2,GRASS-2,GRASS-1,ROAD-inner,ROAD-inner,ROAD-inner,ROAD-inner,ROAD-inner
+GRASS-2,GRASS-2,GRASS-2,ROAD-inner,GRASS-2,GRASS-1,GRASS-1,GRASS-1
+ROAD-inner,ROAD-inner,ROAD-inner,ROAD-inner,GRASS-2,GRASS-2,DIRT-1,DIRT-1
+GRASS-1,GRASS-1,GRASS-2,ROAD-inner,GRASS-2,DIRT-1,FLOWER-red,FLOWER-blue
+GRASS-1,GRASS-2,GRASS-2,ROAD-inner,GRASS-1,DIRT-1,FLOWER-blue,FLOWER-red

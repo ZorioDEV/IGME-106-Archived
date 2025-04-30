@@ -1,0 +1,3 @@
+BadGuy,500
+Koopa Troopa,25
+Wicked Witch,84

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity&Collisions", "Gravity&Collisions.csproj", "{A72BC27F-F50A-4D3C-82D7-4AC694D2F72D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72BC27F-F50A-4D3C-82D7-4AC694D2F72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72BC27F-F50A-4D3C-82D7-4AC694D2F72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72BC27F-F50A-4D3C-82D7-4AC694D2F72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72BC27F-F50A-4D3C-82D7-4AC694D2F72D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F53467E-EED8-4489-B656-1DA48E6477BF}
+	EndGlobalSection
+EndGlobal

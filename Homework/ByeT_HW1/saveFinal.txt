@@ -1,0 +1,12 @@
+12,10
+@,-
+xxxxoxxoxxxx
+xxxoxxxxoxxx
+xxoxxxxxxoxx
+xoxxxooxxxox
+xxxxoxxoxxxx
+xxxxoxxoxxxx
+xoxxxooxxxox
+xxoxxxxxxoxx
+xxxoxxxxoxxx
+xxxxoxxoxxxx
